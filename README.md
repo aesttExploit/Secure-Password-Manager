@@ -254,3 +254,9 @@ Through this project, I gained practical experience with:
 # 📜 License
 
 This project was developed for educational and portfolio purposes.
+
+# Disclaimer
+
+This project was developed for educational and cybersecurity learning purposes.
+It demonstrates security concepts such as encryption, authentication, and secure storage.
+It has not undergone a professional security audit and should not be used for storing real credentials.
